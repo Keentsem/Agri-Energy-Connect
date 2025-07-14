@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\views\\farmer\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\views\\farmer\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|c:\\users\\keent\\onedrive\\desktop\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223\\agri-energy_st10391223.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0604CF2F-E5BE-41B2-90D6-F6028B655669}|Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj|solutionrelative:agri-energy_st10391223\\agri-energy_st10391223.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Models\\Product.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:14:24.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:15:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Views\\Farmer\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Views\\Farmer\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Views\\Farmer\\EditProduct.cshtml",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Views\\Farmer\\EditProduct.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T09:14:44.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:34:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\data\\SeedData.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\data\\SeedData.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:35:13.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Models\\Farmer.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Models\\Farmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:13:53.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:13:14.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T18:33:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T18:17:16.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Controllers\\FarmerController.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Controllers\\FarmerController.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:09:56.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:35:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:10:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Agri-Energy_st10391223.csproj",
+              "DocumentMoniker": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj",
+              "RelativeDocumentMoniker": "Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj",
+              "ToolTip": "C:\\Users\\keent\\OneDrive\\Desktop\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj",
+              "RelativeToolTip": "Agri-Energy_st10391223\\Agri-Energy_st10391223.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T23:38:41.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

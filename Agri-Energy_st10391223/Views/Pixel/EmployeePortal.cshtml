@@ -1,0 +1,225 @@
+@{
+    ViewData["Title"] = "Employee Portal";
+}
+
+<link rel="stylesheet" href="~/css/pixel-theme.css" />
+
+<div class="container page-transition">
+    <!-- Navigation -->
+    <nav class="pixel-nav mb-4">
+        <div class="container d-flex justify-content-between align-items-center">
+            <ul class="nav">
+                <li class="nav-item">
+                    <a class="pixel-nav-link" href="/">
+                        <img src="~/images/eco_baby.png" alt="Home" class="pixel-nav-icon" />
+                        Home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="pixel-nav-link active" href="#">
+                        <img src="~/images/sprite_clipboard_employee.png" alt="Employee" class="pixel-nav-icon" />
+                        Employee Portal
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Login Section - Shown by default, hidden when logged in -->
+    <div id="login-section">
+        <section class="pixel-section-header">
+            <img src="~/images/secure_lock.png" alt="Secure Login" class="pixel-header-icon" />
+            <h1 class="pixel-header-title">Employee Portal Sign-In</h1>
+        </section>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="pixel-border">
+                    <form id="login-form">
+                        <div class="form-group">
+                            <label for="employeeId">Employee ID</label>
+                            <input type="text" class="form-control" id="employeeId" placeholder="Enter your employee ID" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <input type="password" class="form-control" id="password" placeholder="Enter your password" required>
+                        </div>
+                        <div class="text-center mt-4">
+                            <button type="button" class="pixel-btn" onclick="simulateLogin()">
+                                <img src="~/images/secure_lock.png" alt="Login" style="width: 20px; height: 20px; margin-right: 5px;">
+                                Sign In
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Dashboard Section - Hidden by default, shown when logged in -->
+    <div id="dashboard-section" style="display: none;">
+        <section class="pixel-section-header">
+            <img src="~/images/sprite_clipboard_employee.png" alt="Employee Dashboard" class="pixel-header-icon" />
+            <h1 class="pixel-header-title">Employee Dashboard</h1>
+        </section>
+
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="pixel-border h-100">
+                    <div class="d-flex align-items-center mb-3">
+                        <img src="~/images/add_farmer.png" alt="Farmers" style="width: 48px; height: 48px; margin-right: 15px;" />
+                        <h4 style="color: #2e8687; margin: 0;">Farmer Management</h4>
+                    </div>
+                    <p>Manage farmer registrations, approve accounts, and assist with technical issues.</p>
+                    <ul class="list-group list-group-flush mb-3">
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Pending Approvals
+                            <span class="badge badge-danger">3</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Support Tickets
+                            <span class="badge badge-warning">7</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Active Farmers
+                            <span class="badge badge-success">124</span>
+                        </li>
+                    </ul>
+                    <a href="#" class="pixel-btn">Manage Farmers</a>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="pixel-border h-100">
+                    <div class="d-flex align-items-center mb-3">
+                        <img src="~/images/clipboard_icon.png" alt="Tasks" style="width: 48px; height: 48px; margin-right: 15px;" />
+                        <h4 style="color: #2e8687; margin: 0;">Employee Tasks</h4>
+                    </div>
+                    <p>Track your assigned tasks and manage your daily activities.</p>
+                    <ul class="list-group list-group-flush mb-3">
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <span>Review product submissions</span>
+                            <span class="badge badge-success">✓</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <span>Verify farmer credentials</span>
+                            <span class="badge badge-success">✓</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <span>Prepare monthly report</span>
+                            <span class="badge badge-secondary">Pending</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <span>Update energy usage metrics</span>
+                            <span class="badge badge-danger">Overdue</span>
+                        </li>
+                    </ul>
+                    <a href="#" class="pixel-btn">View All Tasks</a>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="pixel-border h-100">
+                    <div class="d-flex align-items-center mb-3">
+                        <img src="~/images/sprite_data_chart.png" alt="Reports" style="width: 48px; height: 48px; margin-right: 15px;" />
+                        <h4 style="color: #2e8687; margin: 0;">Quick Reports</h4>
+                    </div>
+                    <p>Access and generate reports on platform activity and performance.</p>
+                    <div class="list-group mb-3">
+                        <a href="#" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                            User Activity Report
+                            <img src="~/images/clipboard_icon.png" alt="Report" style="width: 24px; height: 24px;">
+                        </a>
+                        <a href="#" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                            Product Verification Stats
+                            <img src="~/images/sprite_data_chart.png" alt="Chart" style="width: 24px; height: 24px;">
+                        </a>
+                        <a href="#" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                            Energy Usage Metrics
+                            <img src="~/images/sprite_energy_icon.png" alt="Energy" style="width: 24px; height: 24px;">
+                        </a>
+                    </div>
+                    <a href="#" class="pixel-btn">All Reports</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="pixel-divider"></div>
+
+        <div class="row">
+            <div class="col-md-6 mb-4">
+                <div class="pixel-border">
+                    <div class="d-flex align-items-center mb-3">
+                        <img src="~/images/add_farmer.png" alt="Admin Functions" style="width: 48px; height: 48px; margin-right: 15px;" />
+                        <h4 style="color: #2e8687; margin: 0;">Administrative Functions</h4>
+                    </div>
+                    <div class="row text-center">
+                        <div class="col-md-4 mb-3">
+                            <div class="pixel-card h-100">
+                                <img src="~/images/add_farmer.png" alt="Add User" style="width: 32px; height: 32px;">
+                                <p class="mt-2">Add New User</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="pixel-card h-100">
+                                <img src="~/images/clipboard_icon.png" alt="Manage" style="width: 32px; height: 32px;">
+                                <p class="mt-2">Manage Roles</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="pixel-card h-100">
+                                <img src="~/images/secure_lock.png" alt="Security" style="width: 32px; height: 32px;">
+                                <p class="mt-2">Security Settings</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-4">
+                <div class="pixel-border">
+                    <div class="d-flex align-items-center mb-3">
+                        <img src="~/images/sprite_energy_icon.png" alt="Quick Stats" style="width: 48px; height: 48px; margin-right: 15px;" />
+                        <h4 style="color: #2e8687; margin: 0;">Today's Metrics</h4>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 text-center mb-3">
+                            <div class="p-3" style="background-color: rgba(46,134,135,0.1); border-radius: 5px;">
+                                <h2 style="color: #2e8687; font-size: 2rem;">27</h2>
+                                <p>New Registrations</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-center mb-3">
+                            <div class="p-3" style="background-color: rgba(46,134,135,0.1); border-radius: 5px;">
+                                <h2 style="color: #2e8687; font-size: 2rem;">143</h2>
+                                <p>Active Users</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 text-center mb-3">
+                            <div class="p-3" style="background-color: rgba(46,134,135,0.1); border-radius: 5px;">
+                                <h2 style="color: #2e8687; font-size: 2rem;">12</h2>
+                                <p>Support Tickets</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function simulateLogin() {
+        // Simple login simulation - in a real app, this would validate against a backend
+        const employeeId = document.getElementById('employeeId').value;
+        const password = document.getElementById('password').value;
+        
+        if (employeeId && password) {
+            // Hide login section and show dashboard
+            document.getElementById('login-section').style.display = 'none';
+            document.getElementById('dashboard-section').style.display = 'block';
+        } else {
+            alert('Please enter both Employee ID and Password');
+        }
+    }
+</script>

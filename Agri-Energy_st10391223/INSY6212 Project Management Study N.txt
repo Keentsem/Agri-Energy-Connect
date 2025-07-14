@@ -1,0 +1,387 @@
+INSY6212 Project Management Study Notes
+Question 1: Team Development Phases & Barriers (20 Marks)
+Storming Phase
+Definition: Second phase of team development where conflicts, disagreements, and power struggles emerge as team members express different opinions and compete for positions.
+Key Characteristics:
+
+Team members challenge the project manager's authority
+Conflicts arise over work procedures and assignments
+Individual personalities clash
+Resistance to task requirements
+Competition for influence and recognition
+Questioning of project goals and approaches
+
+Management Strategies:
+
+Encourage open communication
+Establish clear roles and responsibilities
+Address conflicts directly and promptly
+Facilitate team meetings to resolve issues
+Set ground rules for team behavior
+
+Performing Phase
+Definition: Fourth phase where the team operates as a cohesive unit, focusing on achieving project objectives efficiently.
+Key Characteristics:
+
+High productivity and efficiency
+Effective collaboration and communication
+Self-directed team members
+Focus on problem-solving rather than interpersonal issues
+Shared responsibility for project success
+Continuous improvement mindset
+
+Indicators of High Performance:
+
+Meeting deadlines consistently
+Quality deliverables
+Proactive problem identification
+Knowledge sharing among members
+Mutual support and trust
+
+Common Team Barriers
+Communication Barriers:
+
+Language differences in global teams
+Poor listening skills
+Information hoarding
+Unclear communication channels
+
+Resource Barriers:
+
+Insufficient funding
+Lack of necessary tools/equipment
+Competing priorities for team members
+Limited availability of skilled personnel
+
+Organizational Barriers:
+
+Bureaucratic procedures
+Conflicting organizational goals
+Lack of management support
+Rigid organizational structure
+
+Technical Barriers:
+
+Inadequate technical expertise
+Outdated technology
+Complex integration requirements
+Lack of standardized processes
+
+
+Question 2: Risk Management Processes (25 Marks)
+Risk Management Overview
+Definition: Systematic process of identifying, assessing, and responding to project risks to minimize negative impacts and maximize opportunities.
+1. Risk Identification Process
+Methods for Risk Identification:
+
+Brainstorming: Team sessions to generate risk ideas
+Expert Interviews: Consulting with experienced professionals
+Checklists: Using standardized risk categories
+Historical Data Analysis: Learning from past projects
+SWOT Analysis: Strengths, Weaknesses, Opportunities, Threats
+
+Risk Categories:
+
+Technical Risks: New technology, performance issues
+Schedule Risks: Delays, resource availability
+Cost Risks: Budget overruns, cost escalation
+External Risks: Regulatory changes, market conditions
+Organizational Risks: Resource conflicts, skill gaps
+
+2. Risk Assessment
+Qualitative Assessment:
+
+Probability: Likelihood of occurrence (High/Medium/Low or 1-10 scale)
+Impact: Severity of consequences (High/Medium/Low or 1-10 scale)
+Risk Score: Probability × Impact
+
+Quantitative Assessment:
+
+Expected Monetary Value (EMV)
+Sensitivity analysis
+Monte Carlo simulation
+Decision tree analysis
+
+3. Risk Response Planning
+Response Strategies:
+
+Avoid: Eliminate the risk by changing project approach
+Mitigate: Reduce probability or impact
+Transfer: Shift risk to third party (insurance, contracts)
+Accept: Acknowledge risk but take no preventive action
+
+4. Risk Monitoring and Control
+Key Activities:
+
+Regular risk register updates
+Risk trigger monitoring
+Implementing contingency plans
+Identifying new risks
+Evaluating response effectiveness
+
+
+Question 3: Resource Management & Budget Constraints (20 Marks)
+Resource Availability Concepts
+Types of Resources:
+
+Human Resources: Skills, expertise, availability
+Equipment: Machinery, tools, technology
+Materials: Raw materials, supplies
+Facilities: Office space, laboratories, manufacturing plants
+
+Resource Leveling
+Definition: Technique to resolve resource conflicts by adjusting start and finish dates based on resource constraints.
+Resource Leveling Process:
+
+Identify resource conflicts in initial schedule
+Analyze resource requirements vs. availability
+Adjust activity timing to smooth resource usage
+Maintain critical path where possible
+Document revised schedule
+
+Benefits:
+
+Eliminates resource over-allocation
+Creates realistic schedule
+Improves resource utilization
+Reduces project stress
+
+Limitations:
+
+May extend project duration
+Reduces schedule flexibility
+Can impact critical path
+
+Types of Project Costs
+Direct Costs:
+
+Labor costs for project team members
+Materials and supplies
+Equipment purchases or rentals
+Subcontractor fees
+Travel expenses
+
+Indirect Costs:
+
+Administrative overhead
+Utilities and facilities
+Management support
+Legal and accounting services
+
+Fixed Costs:
+
+Remain constant regardless of project activity level
+Examples: Equipment purchase, facility rental
+
+Variable Costs:
+
+Change with project activity level
+Examples: Materials, hourly labor
+
+Sunk Costs:
+
+Already incurred and cannot be recovered
+Should not influence future decisions
+
+Budget Management
+Budget Development Process:
+
+Estimate activity costs
+Aggregate costs by work package
+Include contingency reserves
+Create time-phased budget
+Establish cost baseline
+
+
+Question 4: Schedule Calculations (10 Marks)
+Earliest Start (ES) and Earliest Finish (EF) Times
+Forward Pass Calculations:
+Earliest Start (ES):
+
+ES = Latest EF of all predecessor activities
+For project start: ES = 0
+
+Earliest Finish (EF):
+
+EF = ES + Duration
+
+Calculation Steps:
+
+Start with first activity (ES = 0)
+Calculate EF = ES + Duration
+For subsequent activities: ES = maximum EF of predecessors
+Continue through entire network
+
+Example Calculation:
+Activity A: ES = 0, Duration = 3, EF = 0 + 3 = 3
+Activity B: ES = 3, Duration = 5, EF = 3 + 5 = 8
+Activity C: ES = 8, Duration = 4, EF = 8 + 4 = 12
+Key Rules:
+
+Activities cannot start until all predecessors are complete
+Use longest path when multiple predecessors exist
+Document all calculations clearly
+
+
+Question 5: Project Management Information Systems (10 Marks)
+PMIS Overview
+Definition: Computer-based system that provides tools for planning, organizing, and controlling projects.
+Common PMIS Features:
+
+Project scheduling and tracking
+Resource management
+Cost management and budgeting
+Risk management tools
+Document management
+Communication and collaboration tools
+Reporting and analytics
+
+Project Manager's Role in Project Phases
+Initiating Phase:
+
+Define project charter
+Identify stakeholders
+Conduct feasibility studies
+Establish project objectives
+
+Planning Phase:
+
+Develop work breakdown structure
+Create project schedule
+Estimate resources and costs
+Plan risk management
+Establish communication plan
+
+Executing Phase:
+
+Direct project work
+Manage team performance
+Ensure quality standards
+Communicate with stakeholders
+Implement approved changes
+
+Monitoring & Controlling Phase:
+
+Track project progress
+Monitor budget and schedule
+Control scope changes
+Manage risks
+Report performance
+
+Closing Phase:
+
+Obtain final acceptance
+Archive project documents
+Conduct lessons learned
+Release project resources
+Celebrate success
+
+
+Question 6: Agile Concepts - MVP, Scrum & Kanban (10 Marks)
+Minimum Viable Product (MVP)
+Definition: Version of a product with minimum features sufficient to satisfy early customers and provide feedback for future development.
+Key Characteristics:
+
+Contains core functionality only
+Allows early market testing
+Minimizes development time and cost
+Provides learning opportunities
+Enables iterative improvement
+
+Scrum Framework
+Key Roles:
+
+Product Owner: Defines requirements and priorities
+Scrum Master: Facilitates process and removes obstacles
+Development Team: Cross-functional team that delivers product
+
+Scrum Events:
+
+Sprint: 1-4 week development iteration
+Sprint Planning: Define sprint goals and tasks
+Daily Standup: Brief progress updates
+Sprint Review: Demonstrate completed work
+Sprint Retrospective: Improve team processes
+
+Scrum Artifacts:
+
+Product Backlog: Prioritized feature list
+Sprint Backlog: Tasks for current sprint
+Product Increment: Working product version
+
+Kanban Method
+Core Principles:
+
+Visualize workflow
+Limit work in progress (WIP)
+Manage flow
+Make policies explicit
+Continuous improvement
+
+Kanban Board:
+
+To Do: Tasks awaiting start
+In Progress: Active work
+Done: Completed tasks
+
+Benefits:
+
+Visual workflow management
+Identifies bottlenecks
+Improves flow efficiency
+Flexible and adaptable
+
+
+Question 7: Scrum Meetings & Benefits/Drawbacks (5 Marks)
+Scrum Meetings
+Daily Standup (Daily Scrum):
+
+Duration: 15 minutes maximum
+Participants: Development team
+Format: Each member answers:
+
+What did I complete yesterday?
+What will I work on today?
+What obstacles are impeding my progress?
+
+
+
+Sprint Planning:
+
+Duration: 2-4 hours per week of sprint
+Purpose: Select backlog items for sprint
+Outcome: Sprint goal and sprint backlog
+
+Sprint Review:
+
+Duration: 1-2 hours per week of sprint
+Purpose: Demonstrate completed work
+Participants: Team and stakeholders
+
+Sprint Retrospective:
+
+Duration: 1 hour per week of sprint
+Purpose: Improve team processes
+Focus: What went well, what to improve
+
+Scrum Benefits
+Advantages:
+
+Faster delivery of working software
+Better stakeholder engagement
+Improved team collaboration
+Early detection of issues
+Flexibility to adapt to changes
+Higher product quality through iterations
+Increased transparency
+
+Scrum Drawbacks
+Limitations:
+
+Requires cultural shift in organization
+Can be difficult to estimate timelines
+May lack comprehensive documentation
+Requires dedicated, experienced team members
+Not suitable for all project types
+Can be challenging for geographically distributed teams
+Potential for scope creep without proper control
