@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agri-Energy
 
 ## Overview
@@ -49,3 +50,6 @@ Agri-Energy is an agricultural management platform designed to help monitor and 
 - Responsive frontend with modern CSS
 - Interactive data visualization components
 - Role-based authentication system
+=======
+# Agri-Energy-Connect
+>>>>>>> 75171b0e2744800d050326fca27b91092f02d93b
